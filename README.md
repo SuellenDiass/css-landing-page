@@ -17,7 +17,7 @@ Foram utilizadas as propriedades básicas da linguagem de estilização, além d
 
 [Clique aqui](https://micheleambrosio.github.io/dio-trilha-css-desafio-01/) para acessar o resultado final da Landing Page criada a partir do desafio pela mentora Michele Ambrosio!
 
-![image](https://user-images.githubusercontent.com/55519539/183538055-6cce606c-7d1d-4d15-a4be-ffeb5b37c956.png)
+![image](https://user-images.githubusercontent.com/102911341/209561801-c36ff547-6eb1-4d5c-80ec-68215a3cf009.png)
 
 Obs.: Ficou faltando trabalhar com responsividade
 
