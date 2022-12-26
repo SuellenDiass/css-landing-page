@@ -1,8 +1,8 @@
 <p align="center">
     <img width="600" src="https://user-images.githubusercontent.com/102911341/209561801-c36ff547-6eb1-4d5c-80ec-68215a3cf009.png">
 </p>
-<p align="center">Seja redirecionado à página do 
-<a href=" " target="_blank">Landing Page com HTML e CSS</a></p>
+<p align="center">Seja redirecionado à minha página do 
+<a href="https://suellendiass.github.io/css-landing-page/ " target="_blank">Landing Page com HTML e CSS</a></p>
 
 
 
@@ -17,7 +17,6 @@ Foram utilizadas as propriedades básicas da linguagem de estilização, além d
 
 [Clique aqui](https://micheleambrosio.github.io/dio-trilha-css-desafio-01/) para acessar o resultado final da Landing Page criada a partir do desafio pela mentora Michele Ambrosio!
 
-![image](https://user-images.githubusercontent.com/102911341/209561801-c36ff547-6eb1-4d5c-80ec-68215a3cf009.png)
 
 Obs.: Ficou faltando trabalhar com responsividade
 
